@@ -76,7 +76,3 @@ This project demonstrates the design and analysis of a movie rental data warehou
 Mohamed Ayman
 
 LinkedIn: www.linkedin.com/in/mohamed-ayman-a169ba253
-
-
-
-Aspiring Data Analyst | AI Enthusiast
