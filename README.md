@@ -73,6 +73,12 @@ This project demonstrates the design and analysis of a movie rental data warehou
 
 ## 👤 Author
 
-**Mohamed Ayman**
+Mohamed Ayman
+
+Aspiring Data Analyst | AI Enthusiast | Power BI | SQL | Excel | Python
+
+LinkedIn: www.linkedin.com/in/mohamed-ayman-a169ba253
+
+
 
 Aspiring Data Analyst | AI Enthusiast
