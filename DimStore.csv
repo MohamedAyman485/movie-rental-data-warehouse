@@ -1,0 +1,16 @@
+StoreID,StoreName,StoreCity,EmployeeCount
+1,Store_1,Zagazig,40
+2,Store_2,Aswan,23
+3,Store_3,Aswan,20
+4,Store_4,Mansoura,26
+5,Store_5,Mansoura,24
+6,Store_6,Alexandria,10
+7,Store_7,Cairo,25
+8,Store_8,Cairo,12
+9,Store_9,Tanta,36
+10,Store_10,Aswan,21
+11,Store_11,Giza,36
+12,Store_12,Aswan,12
+13,Store_13,Zagazig,35
+14,Store_14,Mansoura,40
+15,Store_15,Zagazig,25
